@@ -6,11 +6,13 @@
         "adList": [
             {
                 "title": "我太难了！！",
-                "url": "http://pic1.win4000.com/wallpaper/c/53cdd1f7c1f21.jpg"
+                "url": "http://pic1.win4000.com/wallpaper/c/53cdd1f7c1f21.jpg",
+                "action": "http://www.baidu.com"
             },
             {
                 "title": "我太难了！！",
-                "url": "http://pic13.nipic.com/20110409/7119492_114440620000_2.jpg"
+                "url": "http://pic13.nipic.com/20110409/7119492_114440620000_2.jpg",
+                "action": "http://www.hao123.com"
             }
         ],
         "info": [
