@@ -5,14 +5,16 @@
         "isNativeAd": false,
         "adList": [
             {
-                "title": "我太难了！！",
-                "url": "https://github.com/BlueWhaleStudio/Update/blob/master/banner.jpg",
+                "title": "",
+                "zhUrl": "https://raw.githubusercontent.com/BlueWhaleStudio/Update/master/banner.jpg",
+                "enUrl": "https://raw.githubusercontent.com/BlueWhaleStudio/Update/master/banner.jpg",
                 "action": "http://www.baidu.com"
             },
             {
-                "title": "我太难了！！",
-                "url": "http://pic13.nipic.com/20110409/7119492_114440620000_2.jpg",
-                "action": "http://www.hao123.com"
+                "title": "",
+                "zhUrl": "http://raw.githubusercontent.com/20110409/7119492_114440620000_2.jpg",
+                "enUrl": "https://raw.githubusercontent.com/BlueWhaleStudio/Update/master/7119492_114440620000_2.jpg",
+                "action": "market://details?id=com.speedfish.vpn.shadowsocks"
             }
         ],
         "info": [
