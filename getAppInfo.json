@@ -12,8 +12,8 @@
             },
             {
                 "title": "",
-                "zhUrl": "http://raw.githubusercontent.com/20110409/7119492_114440620000_2.jpg",
-                "enUrl": "https://raw.githubusercontent.com/BlueWhaleStudio/Update/master/7119492_114440620000_2.jpg",
+                "zhUrl": "https://raw.githubusercontent.com/BlueWhaleStudio/Update/master/banner.jpg",
+                "enUrl": "https://raw.githubusercontent.com/BlueWhaleStudio/Update/master/banner.jpg",
                 "action": "market://details?id=com.speedfish.vpn.shadowsocks"
             }
         ],
